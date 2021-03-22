@@ -2,8 +2,9 @@
 ### Frontend developer following web standards.
 ### HTML, CSS, JS, Web Components, VueJS.
 
-- 🔭    I’m currently working on [Kairós DS](https://kairosds.com/) as **Frontend developer** and as **Teacher** on [Fictizia](https://www.fictizia.com/)
-- 💻  I have developed applications with: Angular, Ember, React.js, Vue.js, LitElement...
+- 🔭  I’m currently working on [Mimacom](https://www.mimacom.com/en/) as a Frontend developer for Mercedes-Benz.
+- 💻  I have developed applications with Angular, Ember, React.js, Vue.js...
+- 🔹  I have developed components with Polymer, LitElement, Stencil and native web components.
 - 🌱  I’m currently learning Node.js and Docker.
 - 👯  I collaborate on tech communities and mentoring people in VueVixensESP, VueJSMadrid and VueSpain.
 - 💬  Ask me about web standards, I always try to follow.
